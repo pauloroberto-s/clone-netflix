@@ -1,2 +1,2 @@
 # clone-netflix
-Site feitos nas aulas do curso de JavaScript da Digital Inovation One.
+Site feito na aula do curso de JavaScript da Digital Inovation One.
